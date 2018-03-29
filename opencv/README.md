@@ -1,7 +1,7 @@
 Excluded modules:
 
-gpu
-nonfree
-stitching
-superres
-world
+gpu   
+nonfree   
+stitching    
+superres   
+world    
